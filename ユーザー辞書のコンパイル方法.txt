@@ -1,6 +1,6 @@
 cd C:\Program Files\MeCab\dic\ipadic
 C:\PROGRA~1\MeCab\bin\mecab-dict-index ^
 -d C:\PROGRA~1\MeCab\dic\ipadic ^
--u C:\Users\upapi\Desktop\git\mecab_userdic\medi.dic ^
+-u C:\Users\upapi\Desktop\git\mecab_userdic\disName.dic ^
 -f utf-8 ^
--t utf-8 C:\Users\upapi\Desktop\git\mecab_userdic\medi.csv
+-t utf-8 C:\Users\upapi\Desktop\git\mecab_userdic\disName.csv

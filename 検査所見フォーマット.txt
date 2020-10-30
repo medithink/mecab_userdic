@@ -1,0 +1,51 @@
+身長 .* cm
+体重 .* (kg|g)
+妊娠前体重 .* kg
+胎児推定体重 .* g
+血圧 .* / .* mmHg
+
+CRP .* mg/dL
+
+
+
+
+
+# 単位
+    # 分子
+％
+EU
+fL
+g
+IU
+L
+mEq
+mg
+mIU
+mL
+mm
+mmH▼2▼O
+ng
+pg
+Torr
+U
+個
+単位
+倍
+秒
+万
+μg
+μmol
+μU
+    # 分母
+dL
+mm▲3▲
+μL
+mL
+L
+gCr
+分/1.73m▲2▲
+1時間
+100白血球
+mgCr
+日
+mL/時間
